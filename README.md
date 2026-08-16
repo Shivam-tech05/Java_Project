@@ -1,4 +1,4 @@
-# DotNet
-This is my first DotNet Project.
+# Java
+This is my first Java Project.
 <br>
 Author - Shivam jaiswal
