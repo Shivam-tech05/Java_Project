@@ -1,4 +1,4 @@
-# Java
-This is my first Java Project.
+# Python
+This is my first Python Project.
 <br>
 Author - Shivam jaiswal
